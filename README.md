@@ -4,4 +4,10 @@ I want to create something akin to these circular segemented grid-like style UI 
 
 ![Star Wars UI](/public/star-wars-hud.jpeg)
 
-Step 1 is just creating a circle that can be divided into polar grid sections.
+Ended up with just some rings for this piece.
+
+## Ouputs
+
+![Seed 75](/public/75.png)
+![Seed 59](/public/59.png)
+![Seed 68](/public/68.png)
