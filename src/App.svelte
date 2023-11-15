@@ -1,13 +1,14 @@
 <script lang="ts">
     import PaneProvider from './lib/pane/PaneProvider.svelte'
     import Ring from './lib/Ring.svelte'
+    import Seed from './lib/seed/Seed.svelte'
     import SvgCanvas from './lib/SvgCanvas.svelte'
+    import Sketch from './Sketch.svelte'
 </script>
 
 <PaneProvider>
+    <Seed />
     <SvgCanvas>
-        {#each Array(10) as _, i}
-            <Ring radius={((i + 1) / 10) * 516} />
-        {/each}
+        <Sketch />
     </SvgCanvas>
 </PaneProvider>

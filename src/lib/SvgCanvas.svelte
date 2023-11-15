@@ -13,6 +13,6 @@
     svg {
         width: 100vw;
         height: 100vh;
-        background-color: #2c3a4f;
+        background-color: #0f0f0f;
     }
 </style>
