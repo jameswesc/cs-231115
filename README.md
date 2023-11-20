@@ -6,8 +6,13 @@ I want to create something akin to these circular segemented grid-like style UI 
 
 Ended up with just some rings for this piece.
 
-## Ouputs
+## Example Ouputs
 
+### Seed 75
 ![Seed 75](/public/75.png)
+
+### Seed 59
 ![Seed 59](/public/59.png)
+
+### Seed 68
 ![Seed 68](/public/68.png)
