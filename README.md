@@ -1,4 +1,4 @@
-# CS 231115 (15/11/23)
+# CS 231115 - 15 Nov 2023
 
 I want to create something akin to these circular segemented grid-like style UI elements like in Star Wars and else where. Example image below:
 
